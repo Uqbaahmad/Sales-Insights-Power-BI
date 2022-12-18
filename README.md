@@ -45,6 +45,11 @@ Dashboards and reports are produced based on the requirements. What the company 
 ### Data analysis is about answering questions. Let's define some questions.
 1. How many total revenue?
 2. How many sales according to year?
+3. How many sales quantity in the market?
+4. Which are the products whose sales have increased?
+5. Who is the customer whose store has been sales the most?
+6. Which date has the maximum number of sales?
+
 
 
 ![Screenshot (193)](https://user-images.githubusercontent.com/104266403/208289347-04d2fbf4-6f0d-48c3-a8aa-7605a841daf0.png)
