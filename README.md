@@ -1,6 +1,6 @@
 # Sales-Insights-Power-BI
 ### Problem Statement
-AtliQ Hardware is an Indian firm that only sells computer hardware and peripheral devices in India. They have several stores in India, such as surge stores and Nomad stores. The company's headquarters are located in Delhi.
+AtliQ Hardware is an Indian firm that only sells computer hardware and peripheral devices in India. They have several stores in India, such as surge stores and Nomad stores, etc. The company's headquarters are located in Delhi.
 
 ### Data Discovery
 ### Project planning using AIMS grid –
