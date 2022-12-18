@@ -2,7 +2,7 @@
 ### Problem Statement
 AtliQ Hardware is an Indian firm that only sells computer hardware and peripheral devices in India. They have several stores in India, such as surge stores and Nomad stores, etc. The company's headquarters are located in Delhi.
 
-### Data Discovery
+# Data Discovery
 ### Project planning using AIMS grid –
 
 AIMS grid: It is a project management tool which consists of four components to it.
@@ -33,7 +33,7 @@ The steps are used for importing data are following:
 * To find out transaction of a particular year which is joint by the date table.
 * To find out the total revenue of a particular year.
 
-### Data Cleaning and ETL (extract transform load)
+# Data Cleaning and ETL (extract transform load)
 * To connect MySQL with the PowerBI dektop.
 * Loading the data into the PowerBI desktop.
 * Transforming data with the help of Power Query. <br/>
