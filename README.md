@@ -20,6 +20,8 @@ In our example, the end result will be the creation of a dashboard, and the succ
 *The team of Data Analyst (Data masters) reaches out to the software engineers to get an access to data base which they can use to create the dashboard in PowerBI.*
 
 This research was performed on the  sales dataset, which is a popular dataset on the internet. I received this dataset from a video I saw on the [Data with Decision YouTube channel](https://www.youtube.com/@codebasics) where the teacher was attempting to work with it, and I thought it was nice enough to do my analysis on it as well. 
+
+Dataset - [link](https://github.com/codebasics/DataAnalysisProjects.git)
  
 The steps are used for importing data are following:
 #### Step 1: Importing Data to MySQL workbench
